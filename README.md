@@ -10,8 +10,8 @@ Welcome to my Github page!
 
 
 #### 🌱 Things I am currently working on: 
-- Software Engineering at the University of Cartagena, more than 800 hours of programming.
-- Internship at the University of Cartagena | Nanomateriales e Ingeniería de Procesos Asistida por Computador (NIPAC) - Research Group
+- Software Engineering at the Universidad de Cartagena, more than 800 hours of programming.
+- Internship at the Universidad de Cartagena | Nanomateriales e Ingeniería de Procesos Asistida por Computador (NIPAC) - Research Group
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
