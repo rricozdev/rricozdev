@@ -7,31 +7,36 @@
 ---
 
 #### 👨‍💻 About Me
-- **Software Engineer** with a strong focus on web development and backend systems.
-- Experienced in building **scalable applications**, designing robust architectures, and applying best practices.
-- Passionate about continuous learning, clean code, and solving real-world problems.
+
+- **Software Engineer** with experience in web development and backend systems.
+- Focused on **scalable applications**, clean architecture, and software best practices.
+- Passionate about continuous learning and contributing to real-world solutions.
 
 ---
 
 #### 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,axios,express,nodejs,sequelize,python,java,git,oracle,postgres,mysql&theme=dark" />
 </p>
 
 ---
 
-#### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rricozdev&show_icons=true&hide_border=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rricozdev&layout=compact&hide_border=true&theme=radical" />
-</p>
+### 📊 My GitHub Activity
+
+![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ---
 
 #### 🎯 Focus 2025
-- Building robust **full-stack applications** with modern architectures.
-- Contributing to open-source and professional engineering communities.
-- Expanding expertise in **cloud computing and software testing**.
+
+- Deliver high-quality **full-stack applications** with modern tools.
+- Contribute to **open-source projects** and share knowledge.
+- Expand expertise in **cloud computing, testing, and DevOps**.
 
 ---
 
