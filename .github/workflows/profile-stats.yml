@@ -1,0 +1,20 @@
+name: GitHub Profile Stats Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta cada 24 horas
+  workflow_dispatch: # Permite correrlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: rricozdev
