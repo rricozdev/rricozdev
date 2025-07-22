@@ -1,43 +1,55 @@
-### [Hi, I'm Ricardo](https://personal-portfolio-rricozdev.vercel.app/) 👋
+<!-- ──────────────────────────────────────────────── -->
+<!--  Ricardo Rico  |  Full-Stack Engineer            -->
+<!-- ──────────────────────────────────────────────── -->
 
-[![Github](https://img.shields.io/badge/Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rricozdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ricoz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:programador5781@gmail.com)
-
----
-
-#### 👨‍💻 About Me
-
-- **Software Engineer** with experience in web development and backend systems.
-- Focused on **scalable applications**, clean architecture, and software best practices.
-- Passionate about continuous learning and contributing to real-world solutions.
-
----
-
-#### 🛠 Tech Stack
+<h1 align="center"> Ricardo Rico</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,axios,express,nodejs,sequelize,python,java,git,oracle,postgres,mysql&theme=dark" />
+  <em>Software Engineer</em><br/>
+  <strong>Universidad de Cartagena · Caribbean Region · LATAM</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rricozdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ricardo-ricoz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:programador5781@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 My GitHub Activity
+## 🎯 About Me
 
-![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/rricozdev/rricozdev/master/profile-summary-card-output/github_dark/4-productive-time.svg)
+- 💻 **Full-Stack Developer** con enfoque en **aplicaciones escalables** (frontend & backend).
+- 🌱 **Clean Architecture** | Buenas prácticas & desarrollo sostenible.
+- 🌍 Apasionado por el **crecimiento tecnológico, científico y cultural** en el Caribe, Colombia & LATAM.
 
 ---
 
-#### 🎯 Focus 2025
+## ⚡ Tech Stack
 
-- Deliver high-quality **full-stack applications** with modern tools.
-- Contribute to **open-source projects** and share knowledge.
-- Expand expertise in **cloud computing, testing, and DevOps**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,sequelize,python,java,git,postgres,mysql,oracle&theme=dark" />
+</p>
 
 ---
 
-<sub>“First, solve the problem. Then, write the code.”</sub>
+## 🚀 2025 Goals
+
+- Construir **aplicaciones full-stack productivas** con herramientas modernas.
+- Contribuir en **open-source** y compartir conocimiento.
+- Elevar habilidades en **Cloud, Testing y DevOps**.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rricozdev&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rricozdev&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+<div align="center">
+  
+> **“First, solve the problem. Then, write the code.”**
+
+</div>
