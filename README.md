@@ -2,10 +2,10 @@
 <!--  Ricardo Rico  |  Full-Stack Engineer            -->
 <!-- ──────────────────────────────────────────────── -->
 
-<h1 align="center"> Ricardo Rico</h1>
+<h1 align="center">👨‍💻 Ricardo Rico</h1>
 
 <p align="center">
-  <em>Software Engineer</em><br/>
+  <em>Software Engineer in the making</em><br/>
   <strong>Universidad de Cartagena · Caribbean Region · LATAM</strong>
 </p>
 
