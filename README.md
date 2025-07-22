@@ -1,15 +1,12 @@
 <!-- ──────────────────────────────────────────────── -->
-<!--  Ricardo Rico  |  Full-Stack Engineer            -->
+<!--  Ricardo Rico | Full-Stack Engineer              -->
 <!-- ──────────────────────────────────────────────── -->
 
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> 
-  Ricardo Rico
-</h1>
+<h1 align="center">Ricardo Rico</h1>
 
 <p align="center">
-  <em>Software Engineer</em><br/>
-  <strong>Universidad de Cartagena · Caribbean Region · LATAM</strong>
+  <strong>Software Engineer</strong><br/>
+  Universidad de Cartagena · Caribbean Region · LATAM
 </p>
 
 <p align="center">
@@ -28,31 +25,45 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> About Me
 
-- **Full-Stack Developer** con enfoque en **aplicaciones escalables** (frontend & backend).
-- **Clean Architecture** | Buenas prácticas & desarrollo sostenible.
-- Apasionado por el **crecimiento tecnológico, científico y cultural** en el Caribe, Colombia & LATAM.
+I'm a **Full-Stack Developer** focused on designing **scalable web and backend solutions**.  
+I advocate for **Clean Architecture, testing, and best practices**.  
+Passionate about **technology, science, and cultural growth** across LATAM.  
+Certified in **AI Fundamentals** by IBM SkillBuild.
 
 ---
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,sequelize,python,java,git,postgres,mysql,oracle&theme=dark" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="React"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" title="Redux"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="Node.js"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" title="Express"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sequelize" width="40" height="40" title="Sequelize"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="Java"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=oracle" width="40" height="40" title="Oracle"/></a>
 </p>
 
 ---
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> 2025 Goals
 
-- Construir **aplicaciones full-stack productivas** con herramientas modernas.
-- Contribuir en **open-source** y compartir conocimiento.
-- Elevar habilidades en **Cloud, Testing y DevOps**.
+- Deliver **production-grade full-stack applications** using modern tooling.  
+- Contribute to **open-source projects** and share knowledge.  
+- Improve expertise in **Cloud, DevOps, and AI**.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rricozdev&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rricozdev&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rricozdev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rricozdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
