@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # 🔥 NECESARIO para hacer push al repo
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
