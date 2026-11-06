@@ -1,70 +1,69 @@
-# <div align="center">Ricardo Rico</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Systems+Architect;Clean+Architecture+Advocate" alt="Typing SVG" />
 
-  <p>
-    <img src="https://img.shields.io/badge/University-Cartagena-9333EA?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-Scalability_%26_Performance-00D4AA?style=flat-square" />
-    <img src="https://img.shields.io/badge/Location-Colombia-cyan?style=flat-square" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=170&text=RICARDO%20RICO&fontSize=46&fontColor=F5F1E8&fontAlignY=42&desc=Ingeniero%20de%20Software&descSize=18&descColor=F59E0B&descAlignY=68" width="100%" alt="Ricardo Rico" />
 
-  <p>
-    <a href="https://linkedin.com/in/ricardo-ricoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/rricozdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=560&height=30&lines=Sistemas+que+escalan+sin+romperse;Clean+Architecture+%C2%B7+DDD+%C2%B7+Hexagonal;Full-Stack+con+criterio+de+rendimiento" alt="Typing" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Universidad_de_Cartagena-0B0F14?style=flat-square&labelColor=0B0F14&color=F59E0B" />
+<img src="https://img.shields.io/badge/Colombia-0B0F14?style=flat-square&labelColor=0B0F14&color=E5E7EB" />
+<img src="https://img.shields.io/badge/IBM_SkillBuild-AI_Fundamentals-0B0F14?style=flat-square&labelColor=0B0F14&color=E5E7EB" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/ricardo-ricoz"><img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=F5F1E8&labelColor=0B0F14&color=1F2937" /></a>
+<a href="https://github.com/rricozdev"><img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=F5F1E8&labelColor=0B0F14&color=1F2937" /></a>
+
 </div>
 
----
+<br>
 
-### 🛠️ Engineering Profile
+```ts
+const ricardo = {
+  rol: "Ingeniero de Software",
+  enfoque: ["Clean Architecture", "DDD", "Arquitectura Hexagonal"],
+  principios: ["SOLID", "Design Patterns", "Optimización de BD"],
+  ia: "LLMs aplicados a auditoría técnica",
+  filosofia: "Primero resolver el problema. Después escribir el código.",
+} as const;
+```
 
-I am a Software Engineer specialized in building resilient, scalable, and maintainable systems. My approach integrates **Clean Architecture** and **Domain-Driven Design (DDD)** to solve complex business problems with high-quality code.
+<br>
 
-* **Architecture & Patterns:** SOLID, Hexagonal Architecture, Design Patterns.
-* **Performance:** Focused on computational efficiency and database optimization.
-* **AI Integration:** Implementing LLMs and AI-driven solutions for technical auditing.
-* **Certification:** IBM SkillBuild AI Fundamentals.
+### Stack
 
----
+<div align="center">
 
-### 🚀 Tech Stack & Tooling
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%"><strong>Frontend</strong></td>
-    <td align="center" width="33%"><strong>Backend</strong></td>
-    <td align="center" width="33%"><strong>Infra & Tools</strong></td>
+    <td align="center"><sub><b>FRONTEND</b></sub></td>
+    <td align="center"><sub><b>BACKEND</b></sub></td>
+    <td align="center"><sub><b>DATOS & INFRA</b></sub></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,redux" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,sequelize" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,postman" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,redux&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,java,sequelize&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,postman&theme=dark" /></td>
   </tr>
 </table>
 
----
-
-### 📊 System Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rricozdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=ffffff&icon_color=00D4AA" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rricozdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=ffffff" width="42%" />
 </div>
 
+<br>
+
+### Actividad
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rricozdev&theme=tokyo-night&bg_color=0D1117&color=9333EA&line=00D4AA&point=ffffff&area=true&hide_border=true" width="90%" />
+
+<img src="https://streak-stats.demolab.com/?user=rricozdev&theme=dark&hide_border=true&background=0B0F14&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&currStreakNum=F5F1E8&sideNums=F5F1E8&sideLabels=9CA3AF&dates=6B7280" alt="Streak" height="150" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rricozdev&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F59E0B&text_color=E5E7EB" alt="Lenguajes" height="150" />
+
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=rricozdev&style=flat-square&color=9333EA&label=SYSTEM_VISITS" />
+  <sub>Construyendo software que dura · Colombia 🇨🇴</sub>
 </div>
